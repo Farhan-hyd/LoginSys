@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224541733052",
+    "firebase_url": "https://storied-coil-301713-default-rtdb.firebaseio.com",
+    "project_id": "storied-coil-301713",
+    "storage_bucket": "storied-coil-301713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224541733052:android:55ab79010eab4d167560b9",
+        "android_client_info": {
+          "package_name": "com.example.mfrid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224541733052-25unln3aup53bnji2uhmficut79i9ugu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVgtS2fwYdt2QJx71sqR6nTUWirnQv2kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224541733052-25unln3aup53bnji2uhmficut79i9ugu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
